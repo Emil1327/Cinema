@@ -7,7 +7,4 @@ public class TicketServiceIMPL implements TicketService{
 
     @Autowired
     private TicketRepository ticketRepository;
-
-
-
 }
